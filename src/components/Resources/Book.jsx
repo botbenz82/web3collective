@@ -15,7 +15,7 @@ const Book = ({ resources }) => {
       clearTimeout(getResources);
     };
   }, []);
-
+ 
   return (
     <>
       {!!resources?.length && (

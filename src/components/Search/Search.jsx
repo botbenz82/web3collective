@@ -24,3 +24,4 @@ const Search = ({ searchTerm, setSearchTerm, handleSearch }) => {
 };
 
 export default Search;
+ 

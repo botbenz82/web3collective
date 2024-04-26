@@ -23,7 +23,7 @@ const Contact = () => {
       .catch((error) => {
         alert("Ooops!", error.text);
       });
-  };
+  }; 
 
   return (
     <>

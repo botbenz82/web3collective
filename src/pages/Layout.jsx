@@ -24,7 +24,7 @@ const Layout = () => {
 
   return (
     <div>
-      <NavBar toggleTheme={toggleTheme} />
+      <NavBar toggleTheme={toggleTheme} /> 
 
       <Outlet />
 

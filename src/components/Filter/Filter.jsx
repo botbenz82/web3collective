@@ -11,7 +11,7 @@ const Filter = ({ resources, setResources }) => {
     if (searchKey === "All") {
       return setResources(allResources);
     }
-
+ 
     const filterWebsitesTag = resources.websites.filter((resourceItem) =>
       resourceItem.tag
         .map((elem) => elem.toLowerCase().trim())

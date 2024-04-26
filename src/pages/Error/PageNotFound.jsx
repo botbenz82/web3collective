@@ -22,7 +22,7 @@ const PageNotFound = () => {
         <button>GO TO HOMEPAGE</button>
       </Link>
     </div>
-  );
+  ); 
 };
 
 export default PageNotFound;

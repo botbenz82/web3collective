@@ -15,7 +15,7 @@ export const games = [
       "Blockchain",
       "Game",
       "Crytozombies",
-    ],
+    ], 
   },
   {
     id: 2,

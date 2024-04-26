@@ -18,7 +18,7 @@ const Sort = ({ sortOption, setSortOption }) => {
       case "oldest":
         sortByOldest();
         break;
-      default:
+      default: 
         break;
     }
   };

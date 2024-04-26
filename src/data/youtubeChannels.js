@@ -17,7 +17,7 @@ export const youtubeChannels = [
       "Smart contracts",
       "Blockchain",
     ],
-  },
+  }, 
   {
     id: 2,
     coverImage:

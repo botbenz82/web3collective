@@ -27,7 +27,7 @@ body,
   --skeleton-background: #fff;
   --skeleton-avatar: #efefef;
   --skeleton-heading: #f0f0f0;
-  --skeleton-shimmer: rgba(255, 255, 255, 0.481);
+  --skeleton-shimmer: rgba(255, 255, 255, 0.481); 
   --skeleton-shadow: 0 0 30px 30px rgba(252, 252, 252, 0.33);
 }
 

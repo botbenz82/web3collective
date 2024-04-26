@@ -19,7 +19,7 @@ export const rpcNodes = [
     url: "https://www.alchemy.com/?ref=web3collectives.vercel.app&utm_source=web3collectives.vercel.app",
     tag: ["Intermediate", "Advanced"],
     keywords: ["Node", "RPC", "Data query", "Alchemy", "Infrastructure"],
-  },
+  }, 
   {
     id: 3,
     coverImage:

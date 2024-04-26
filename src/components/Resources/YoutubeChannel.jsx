@@ -23,7 +23,7 @@ const YoutubeChannel = ({ resources }) => {
           {categories.map((category, index) => (
             <h2 key={index} className="category-title">
               {category.youtube}
-            </h2>
+            </h2> 
           ))}
 
           <div className="card-section">

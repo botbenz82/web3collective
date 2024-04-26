@@ -17,7 +17,7 @@ const DevTool = ({ resources }) => {
   }, []);
 
   return (
-    <>
+    <> 
       {!!resources?.length && (
         <div id="devtool" className="category">
           {categories.map((category, index) => (

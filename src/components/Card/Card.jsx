@@ -19,7 +19,7 @@ const Card = ({ title, coverImage, description, url, index }) => {
         }}
         transition={{
           duration: 0.5,
-        }}
+        }} 
         layout
       >
         <div className="card-img">

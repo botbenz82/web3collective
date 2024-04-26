@@ -21,7 +21,7 @@ const About = () => {
           <a
             href="https://github.com/frankiefab100/Blockchain-Development-Resources"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noopener noreferrer" 
           >
             Github
           </a>{" "}

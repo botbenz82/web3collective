@@ -23,7 +23,7 @@ import { documentations } from "../../data/documentations";
 import { githubRepos } from "../../data/githubRepos";
 import { projectTemplates } from "../../data/projectTemplates";
 import { youtubeChannels } from "../../data/youtubeChannels";
-import { rpcNodes } from "../../data/rpcNodes";
+import { rpcNodes } from "../../data/rpcNodes"; 
 import { useMemo } from "react";
 import "./Home.css";
 

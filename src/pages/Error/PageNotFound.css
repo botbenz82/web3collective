@@ -24,7 +24,7 @@
 }
 
 @media screen and (min-width: 600px) {
-  .error-section p {
+  .error-section p { 
     width: 50%;
   }
 }

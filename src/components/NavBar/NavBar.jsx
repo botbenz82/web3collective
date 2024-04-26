@@ -18,7 +18,7 @@ const NavBar = ({toggleTheme}) => {
         setScrollProgress(
           Number((scrollProgress / scrollHeight).toFixed(2)) * 100,
         );
-      }
+      } 
     };
 
     window.addEventListener("scroll", updateScroll);

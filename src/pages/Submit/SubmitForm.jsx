@@ -20,7 +20,7 @@ const SubmitForm = () => {
         </p>
       </div>
       <div className="form-container">
-        <h3 className="subtitle">Thank you as you contribute!</h3>
+        <h3 className="subtitle">Thank you as you contribute!</h3> 
 
         <form
           className="form resources-form"

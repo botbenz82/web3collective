@@ -18,7 +18,7 @@
 #heading {
   background-color: var(--skeleton-heading);
   border-radius: 5px;
-  margin: 8px 2px;
+  margin: 8px 2px; 
   width: 200px;
   height: 20px;
 }

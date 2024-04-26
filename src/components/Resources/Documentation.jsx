@@ -18,7 +18,7 @@ const Documentation = ({ resources }) => {
 
   return (
     <>
-      {!!resources?.length && (
+      {!!resources?.length && ( 
         <div id="doc" className="category">
           {categories.map((category, index) => (
             <h2 key={index} className="category-title">

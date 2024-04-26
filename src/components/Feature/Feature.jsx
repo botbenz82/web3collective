@@ -11,7 +11,7 @@ const Feature = () => {
       <div className="brands">
         <img src={DevDaoLogo} alt="developerdao logo" />
         <img src={ImmunefiLogo} alt="immunefi logo" />
-        <img src={CadenaLogo} alt="immunefi logo" />
+        <img src={CadenaLogo} alt="immunefi logo" /> 
       </div>
     </div>
   );

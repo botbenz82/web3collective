@@ -16,7 +16,7 @@
 .card:hover {
   border: 0.4px solid var(--cta-secondary);
   transform: scale(1.02);
-}
+} 
 
 .card-img {
   cursor: pointer;

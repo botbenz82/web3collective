@@ -15,7 +15,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <React.Fragment>
-      <div className="footer">
+      <div className="footer"> 
         <div className="footer-nav">
           <div className="footer-list">
             <div className="logo">
