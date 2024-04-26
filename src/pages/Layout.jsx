@@ -17,7 +17,7 @@ const Layout = () => {
     const newTheme = theme === "dark" ? "light" : "dark";
     setTheme(newTheme);
   };
-
+ 
   useEffect(() => {
     document.documentElement.setAttribute("data-theme-color", theme);
   }, [theme]);

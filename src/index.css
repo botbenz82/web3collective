@@ -23,7 +23,7 @@ body,
   --border-color-secondary: rgba(0, 0, 0, 0.09);
   --box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.1);
   --black: #000;
-  --neutral: #fff;
+  --neutral: #fff; 
   --skeleton-background: #fff;
   --skeleton-avatar: #efefef;
   --skeleton-heading: #f0f0f0;
