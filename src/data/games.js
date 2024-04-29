@@ -13,7 +13,7 @@ export const games = [
       "Ethereum",
       "Smart contracts",
       "Blockchain",
-      "Game",
+      "Game", 
       "Crytozombies",
     ], 
   },
