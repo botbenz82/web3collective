@@ -12,7 +12,7 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        import.meta.env.VITE_APP_EMAIL_SERVICE_ID,
+        import.meta.env.VITE_APP_EMAIL_SERVICE_ID, 
         import.meta.env.VITE_APP_EMAIL_TEMPLATE_ID,
         form.current,
         import.meta.env.VITE_APP_EMAIL_PUBLIC_KEY,
